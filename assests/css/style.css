@@ -261,7 +261,7 @@ header .navbar ul li a:hover{
   transition: 0.3s;
 }
 .home .btn:hover{
-  background: #1a047e;
+  background: #04767e;
 }
 .home .btn:hover i {
   transform: translateX(5px);
@@ -420,7 +420,7 @@ header .navbar ul li a:hover{
   transition: 0.3s;
 }
 .resumebtn .btn:hover{
-  background: #1a047e;
+  background: #e8dd4c;
 }
 .resumebtn .btn:hover i {
   transform: translateX(5px);
