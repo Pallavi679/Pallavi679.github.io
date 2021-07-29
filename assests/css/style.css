@@ -58,7 +58,7 @@ html::-webkit-scrollbar-thumb{
 
 /* navbar starts */
 header{
-  /* position: fixed; */
+  position: fixed;
   top: 0; left: 0; right: 0;
   z-index: 1000;
   display: flex;
@@ -124,7 +124,7 @@ header .navbar ul li a:hover{
 #menu{
   font-size: 3rem;
   cursor: pointer;
-  color: rgb(24, 2, 63);
+  color: rgb(255, 255, 255);
   display: none;
 }
 @media(max-width:768px){
@@ -138,7 +138,7 @@ header .navbar ul li a:hover{
     height: 100%;
     text-align: left;
     align-items: flex-start;
-    background-color: #0e0f31;
+    background-color: #000000;
   }
   header .navbar ul{
     flex-flow: column;
@@ -155,7 +155,7 @@ header .navbar ul li a:hover{
     display: block;
     padding: 1rem;
     text-align: left;
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 2rem;
   }
   header .navbar ul li a.active,
