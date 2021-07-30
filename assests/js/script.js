@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["fullstack development", "Begineer in Data Science", "Android development"],
+        strings: ["fullstack development", "Begineer in Data Science", "Android development", "Freelancing"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
