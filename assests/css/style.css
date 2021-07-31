@@ -314,6 +314,9 @@ header .navbar ul li a:hover{
 .social-icons a.linkedin:hover {
   background-color:#007bb6
 }
+.social-icons a.kaggle:hover {
+  background-color:#007bb6
+}
 .social-icons a.dev:hover {
     background-color:#070707
 }
